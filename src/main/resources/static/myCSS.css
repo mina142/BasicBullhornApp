@@ -1,0 +1,19 @@
+body{
+    background-color: #FFE4E1;
+}
+
+p.ex1 {
+    padding-top: 25px;
+}
+
+.navbar-custom {
+    background-color: #DB7093;
+}
+.text-color{
+    color: azure;
+}
+.buttonColor{
+
+    background-color: #9370DB;
+    color: azure;
+}
